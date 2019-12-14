@@ -1,0 +1,22 @@
+.gradient{
+background-image: linear-gradient(#3400ff, white);
+height: 10500px;
+}
+
+.title {
+ color: white;
+ font-family: helvetica;
+ font-size: 75px;
+ font-style: 400;
+ padding-left: 50px;
+}
+
+.body {
+padding: 20px 50px 90px 60px;
+color: #d1d1d1;
+font-size: 15pt;
+font-family: helvetica;
+height: 1750px;
+width: 100%;
+
+    }

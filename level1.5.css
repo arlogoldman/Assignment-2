@@ -1,0 +1,16 @@
+
+.body{
+  background-color: black;
+  font-weight: bolder;
+  color: white;
+  height: 500px;
+}
+
+.title{
+  font-size: 150px;
+  font-family: helvetica;
+  padding-left: 40px;
+  padding-top: 5px;
+  line-height: 150px;
+  color: black;
+}

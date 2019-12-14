@@ -1,0 +1,26 @@
+.coat {
+  font-family: 'Scheherazade', serif;
+  color: #e4d9a7;
+  font-size: 250px;
+  line-height: 100px;
+}
+
+.poem {
+  font-size: 50px;
+  height: 3125px;
+  width: 1000px;
+  color: #e4d9a7;
+  font-family: 'Scheherazade', serif;
+  border: solid #e4d9a7;
+  border-radius: 100px;
+  padding: 50px;
+  position: relative;
+}
+
+#poem {
+  position: static;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-left: 100px;
+  background-color: white;
+}

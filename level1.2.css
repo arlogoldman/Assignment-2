@@ -1,0 +1,26 @@
+.body {
+  position: relative;
+  background-color: #3243;
+  font-family: 'Acme', sans-serif;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+.body2{
+background-color: #cd326b;
+font-family: 'Acme', sans-serif;
+font-size: 30px;
+}
+.big {
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  border: 10px dotted black;
+  border-radius: 50px;
+  font-size: 30px;
+  background-color:
+  bottom: 20px;
+  right: 0px;
+  padding: 20px;
+}
